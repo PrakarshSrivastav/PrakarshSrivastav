@@ -11,7 +11,7 @@
 
 ### 🤝 Collaboration & Contact:
 - 💞️ **Looking to collaborate on:** Backend APIs, scalable system designs, and innovative solutions.  
-- 📬 **Reach me at:** [prakarshsrivastava@gmail.com](mailto:prakarshsrivastava@gmail.com)  
+- 📬 **Reach me at:** [prakarshsrivastava@gmail.com](mailto:prakarshsrivastava2004@gmail.com)  
 
 ---
 

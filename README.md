@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/PrakarshSrivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:prakarshsrivastava2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://prakarshsrivastava.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://portfolio-nu-three-e39oqi0srt.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 <br/>
 
